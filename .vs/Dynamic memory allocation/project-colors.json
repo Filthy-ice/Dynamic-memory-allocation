@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ce1c086-0d79-40b8-a80e-960a38fac17d": {
+      "ProjectGuid": "0ce1c086-0d79-40b8-a80e-960a38fac17d",
+      "DisplayName": "Dynamic memory allocation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
